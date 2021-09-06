@@ -1,7 +1,9 @@
 # Who is home?
 
-# pip3 install fritzconnection
+Works for most FritzBox routers
 
-# update router login password in main method
+>pip3 install fritzconnection
 
-# python3 whos-home.py
+>update router login password in main method
+
+>python3 whos-home.py
