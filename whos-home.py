@@ -13,6 +13,6 @@ def whos_home(fh):
             print(f'{index:>3}: {ip:<16} {hn:<28} {mac:<17}   {status}')
 
 if __name__ == '__main__':
-    password = 'Password69420'
+    password = '<insert-router-login-password-here'
     fh = FritzHosts(address='192.168.178.1', password=password)
     whos_home(fh)
